@@ -19,3 +19,8 @@ WordPress plugin used to disable all automatic updates to Core, Theme's or plugi
 ## License
 
 This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE.md](LICENSE.md) file for details
+
+## Future
+
+I dont see this plugin changing too much going forward.
+I may at some point add in a options page.
